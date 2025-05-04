@@ -1,0 +1,9 @@
+[submodule "endpoint-with-sql"]
+	path = endpoint-with-sql
+	url = https://github.com/malykhnik/endpoint-with-sql.git
+[submodule "endpoint-with-nosql"]
+	path = endpoint-with-nosql
+	url = https://github.com/malykhnik/endpoint-with-nosql.git
+[submodule "endpoint-without-db"]
+	path = endpoint-without-db
+	url = https://github.com/malykhnik/endpoint-without-db.git
